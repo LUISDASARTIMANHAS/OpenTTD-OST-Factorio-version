@@ -129,11 +129,11 @@ data:extend({
     },
     {
         type = "ambient-sound",
-        name = "mp3night_snow_run",
+        name = "midnight_snow_run",
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "mp3night_snow_run.mp3"
+            filename = path_main .. "midnight_snow_run.mp3"
         }
     },
     {
