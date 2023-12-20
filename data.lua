@@ -1,4 +1,4 @@
-local path_main = "__OpenTTD-OST__/"
+local path_main = "__OpenTTD-OST__/audio/"
 
 data:extend({
     {
@@ -7,7 +7,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/5432gone_redfarn.mid"
+            filename = path_main .. "5432gone_redfarn.mp3"
         }
     },
     {
@@ -16,7 +16,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/be_sharp_bw_redfarn.mid"
+            filename = path_main .. "be_sharp_bw_redfarn.mp3"
         }
     },
     {
@@ -25,7 +25,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/boogi_marabi_redfarn.mid"
+            filename = path_main .. "boogi_marabi_redfarn.mp3"
         }
     },
     {
@@ -34,7 +34,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/busy_schedule.mid"
+            filename = path_main .. "busy_schedule.mp3"
         }
     },
     {
@@ -43,7 +43,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/careless_perc_redfarn.mid"
+            filename = path_main .. "careless_perc_redfarn.mp3"
         }
     },
     {
@@ -52,7 +52,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/5432gone_redfarn.mid"
+            filename = path_main .. "5432gone_redfarn.mp3"
         }
     },
     {
@@ -61,7 +61,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/chemistry_lab.mid"
+            filename = path_main .. "chemistry_lab.mp3"
         }
     },
     {
@@ -70,7 +70,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/chuggachugga.mid"
+            filename = path_main .. "chuggachugga.mp3"
         }
     },
     {
@@ -79,7 +79,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/city_blues_redfarn.mid"
+            filename = path_main .. "city_blues_redfarn.mp3"
         }
     },
     {
@@ -88,7 +88,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/coconut_run2.mid"
+            filename = path_main .. "coconut_run2.mp3"
         }
     },
     {
@@ -97,7 +97,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/flying_scotsman.mid"
+            filename = path_main .. "flying_scotsman.mp3"
         }
     },
     {
@@ -106,7 +106,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/harp_harmony.mid"
+            filename = path_main .. "harp_harmony.mp3"
         }
     },
     {
@@ -115,7 +115,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/keep_on_rolling.mid"
+            filename = path_main .. "keep_on_rolling.mp3"
         }
     },
     {
@@ -124,16 +124,16 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/linns_basket.mid"
+            filename = path_main .. "linns_basket.mp3"
         }
     },
     {
         type = "ambient-sound",
-        name = "midnight_snow_run",
+        name = "mp3night_snow_run",
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/midnight_snow_run.mid"
+            filename = path_main .. "mp3night_snow_run.mp3"
         }
     },
     {
@@ -142,7 +142,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/mighty_giant_run.mid"
+            filename = path_main .. "mighty_giant_run.mp3"
         }
     },
     {
@@ -151,7 +151,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/modern_motion.mid"
+            filename = path_main .. "modern_motion.mp3"
         }
     },
     {
@@ -160,7 +160,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/moo_redfarn.mid"
+            filename = path_main .. "moo_redfarn.mp3"
         }
     },
     {
@@ -169,7 +169,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/mosey_along_redfarn.mid"
+            filename = path_main .. "mosey_along_redfarn.mp3"
         }
     },
     {
@@ -178,7 +178,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/no_work_song_redfarn.mid"
+            filename = path_main .. "no_work_song_redfarn.mp3"
         }
     },
     {
@@ -187,7 +187,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/relax_song.mid"
+            filename = path_main .. "relax_song.mp3"
         }
     },
     {
@@ -196,7 +196,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/run_for_your_life.mid"
+            filename = path_main .. "run_for_your_life.mp3"
         }
     },
     {
@@ -205,7 +205,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/say_what_redfarn.mid"
+            filename = path_main .. "say_what_redfarn.mp3"
         }
     },
     {
@@ -214,7 +214,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/slow_neasy_redfarn.mid"
+            filename = path_main .. "slow_neasy_redfarn.mp3"
         }
     },
     {
@@ -223,7 +223,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/the_fast_route.mid"
+            filename = path_main .. "the_fast_route.mp3"
         }
     },
     {
@@ -232,7 +232,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/the_hobo_redfarn.mid"
+            filename = path_main .. "the_hobo_redfarn.mp3"
         }
     },
     {
@@ -241,7 +241,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/train_filled_with_cash.mid"
+            filename = path_main .. "train_filled_with_cash.mp3"
         }
     },
     {
@@ -250,7 +250,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/ttsong_iii_imuh3.mid"
+            filename = path_main .. "ttsong_iii_imuh3.mp3"
         }
     },
     {
@@ -259,7 +259,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/ttsong_iv_imuh3.mid"
+            filename = path_main .. "ttsong_iv_imuh3.mp3"
         }
     },
     {
@@ -268,7 +268,7 @@ data:extend({
         track_type = "menu-track",
         sound =
         {
-            filename = path_main .. "audio/tttheme2.mid"
+            filename = path_main .. "tttheme2.mp3"
         }
     },
     {
@@ -277,7 +277,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/ultimate_run.mid"
+            filename = path_main .. "ultimate_run.mp3"
         }
     },
     {
@@ -286,7 +286,7 @@ data:extend({
         track_type = "main-track",
         sound =
         {
-            filename = path_main .. "audio/wood_whistles.mid"
+            filename = path_main .. "wood_whistles.mp3"
         }
     }
 })
