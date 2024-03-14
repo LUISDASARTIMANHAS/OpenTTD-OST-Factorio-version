@@ -6,7 +6,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "5432gone_redfarn",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "5432gone_redfarn.ogg",
@@ -16,7 +16,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "be_sharp_bw_redfarn",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "be_sharp_bw_redfarn.ogg",
@@ -26,7 +26,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "boogi_marabi_redfarn",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "boogi_marabi_redfarn.ogg",
@@ -66,7 +66,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "chemistry_lab",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "chemistry_lab.ogg",
@@ -76,7 +76,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "chuggachugga",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "chuggachugga.ogg",
@@ -96,7 +96,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "coconut_run2",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "coconut_run2.ogg",
@@ -106,7 +106,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "flying_scotsman",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "flying_scotsman.ogg",
@@ -116,7 +116,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "harp_harmony",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "harp_harmony.ogg",
@@ -126,7 +126,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "keep_on_rolling",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "keep_on_rolling.ogg",
@@ -166,7 +166,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "modern_motion",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "modern_motion.ogg",
@@ -206,7 +206,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "relax_song",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "relax_song.ogg",
@@ -216,7 +216,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "run_for_your_life",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "run_for_your_life.ogg",
@@ -246,7 +246,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "the_fast_route",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "the_fast_route.ogg",
@@ -266,7 +266,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "train_filled_with_cash",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "train_filled_with_cash.ogg",
@@ -276,7 +276,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "ttsong_iii_imuh3",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "ttsong_iii_imuh3.ogg",
@@ -286,7 +286,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "ttsong_iv_imuh3",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "ttsong_iv_imuh3.ogg",
@@ -296,7 +296,7 @@ data:extend({
     {
         type = "ambient-sound",
         name = "ultimate_run",
-        track_type = "main-track",
+        track_type = "interlude",
         sound =
         {
             filename = path_main .. "ultimate_run.ogg",
