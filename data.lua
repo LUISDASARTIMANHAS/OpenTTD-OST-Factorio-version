@@ -9,7 +9,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "5432gone_redfarn.mp3",
+            filename = path_main .. "5432gone_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -19,7 +19,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "be_sharp_bw_redfarn.mp3",
+            filename = path_main .. "be_sharp_bw_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -29,7 +29,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "boogi_marabi_redfarn.mp3",
+            filename = path_main .. "boogi_marabi_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -39,7 +39,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "busy_schedule.mp3",
+            filename = path_main .. "busy_schedule.ogg",
             volume = 1.2
         }
     },
@@ -49,7 +49,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "careless_perc_redfarn.mp3",
+            filename = path_main .. "careless_perc_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -59,7 +59,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "5432gone_redfarn.mp3",
+            filename = path_main .. "5432gone_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -69,7 +69,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "chemistry_lab.mp3",
+            filename = path_main .. "chemistry_lab.ogg",
             volume = 1.2
         }
     },
@@ -79,7 +79,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "chuggachugga.mp3",
+            filename = path_main .. "chuggachugga.ogg",
             volume = 1.2
         }
     },
@@ -89,7 +89,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "city_blues_redfarn.mp3",
+            filename = path_main .. "city_blues_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -99,7 +99,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "coconut_run2.mp3",
+            filename = path_main .. "coconut_run2.ogg",
             volume = 1.2
         }
     },
@@ -109,7 +109,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "flying_scotsman.mp3",
+            filename = path_main .. "flying_scotsman.ogg",
             volume = 1.2
         }
     },
@@ -119,7 +119,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "harp_harmony.mp3",
+            filename = path_main .. "harp_harmony.ogg",
             volume = 1.2
         }
     },
@@ -129,7 +129,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "keep_on_rolling.mp3",
+            filename = path_main .. "keep_on_rolling.ogg",
             volume = 1.2
         }
     },
@@ -139,7 +139,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "linns_basket.mp3",
+            filename = path_main .. "linns_basket.ogg",
             volume = 1.2
         }
     },
@@ -149,7 +149,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "midnight_snow_run.mp3",
+            filename = path_main .. "midnight_snow_run.ogg",
             volume = 1.2
         }
     },
@@ -159,7 +159,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "mighty_giant_run.mp3",
+            filename = path_main .. "mighty_giant_run.ogg",
             volume = 1.2
         }
     },
@@ -169,7 +169,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "modern_motion.mp3",
+            filename = path_main .. "modern_motion.ogg",
             volume = 1.2
         }
     },
@@ -179,7 +179,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "moo_redfarn.mp3",
+            filename = path_main .. "moo_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -189,7 +189,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "mosey_along_redfarn.mp3",
+            filename = path_main .. "mosey_along_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -199,7 +199,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "no_work_song_redfarn.mp3",
+            filename = path_main .. "no_work_song_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -209,7 +209,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "relax_song.mp3",
+            filename = path_main .. "relax_song.ogg",
             volume = 1.2
         }
     },
@@ -219,7 +219,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "run_for_your_life.mp3",
+            filename = path_main .. "run_for_your_life.ogg",
             volume = 1.2
         }
     },
@@ -229,7 +229,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "say_what_redfarn.mp3",
+            filename = path_main .. "say_what_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -239,7 +239,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "slow_neasy_redfarn.mp3",
+            filename = path_main .. "slow_neasy_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -249,7 +249,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "the_fast_route.mp3",
+            filename = path_main .. "the_fast_route.ogg",
             volume = 1.2
         }
     },
@@ -259,7 +259,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "the_hobo_redfarn.mp3",
+            filename = path_main .. "the_hobo_redfarn.ogg",
             volume = 1.2
         }
     },
@@ -269,7 +269,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "train_filled_with_cash.mp3",
+            filename = path_main .. "train_filled_with_cash.ogg",
             volume = 1.2
         }
     },
@@ -279,7 +279,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "ttsong_iii_imuh3.mp3",
+            filename = path_main .. "ttsong_iii_imuh3.ogg",
             volume = 1.2
         }
     },
@@ -289,7 +289,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "ttsong_iv_imuh3.mp3",
+            filename = path_main .. "ttsong_iv_imuh3.ogg",
             volume = 1.2
         }
     },
@@ -299,7 +299,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "ultimate_run.mp3",
+            filename = path_main .. "ultimate_run.ogg",
             volume = 1.2
         }
     },
@@ -309,7 +309,7 @@ data:extend({
         track_type = "interlude",
         sound =
         {
-            filename = path_main .. "wood_whistles.mp3",
+            filename = path_main .. "wood_whistles.ogg",
             volume = 1.2
         }
     }
@@ -322,7 +322,7 @@ data:extend({
         track_type = "menu-track",
         sound =
         {
-            filename = path_main .. "tttheme2.mp3",
+            filename = path_main .. "tttheme2.ogg",
             volume = 1.2
         }
     }
