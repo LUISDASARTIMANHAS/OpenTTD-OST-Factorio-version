@@ -1,6 +1,8 @@
 # OpenTTD-OST-Factorio-version
 Bring in music from OpenTTD // Traz músicas do OpenTTD
 
+## The mod itself already does self-balancing so as not to replace the game's music and not just play the open TTD // O próprio mod já faz um auto balanceamento para não substituir a música do jogo e não ficar tocando apenas o open TTD
+
 Direitos autorais © 2005 OpenTTD
 
 The core game of OpenTTD is released under the GNU General Public License (GPL) version 2.
