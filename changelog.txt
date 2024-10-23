@@ -1,26 +1,32 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.36
-Date: 06/07/2024
+Version: 0.0.6
+Date: 14/03/2024
   Changes:
-    - full autodrive translation
-    - full AutoDeconstruct translation 
-    - full cargo-ships translation
-    - tradução completa do autodrive.
-    - tradução completa do AutoDeconstruct.
-    - tradução completa do cargo-ships.
+    - updated factorio 2.0 22/10/2024
+    - updated flow music
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.35
-Date: 01/07/2024
+Version: 0.0.5
+Date: 14/03/2024
   Changes:
-    - added semi autodrive translation
-    - adicionado semi tradução do autodrive.
+    - converted audios mp3 to ogg
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.34
-Date: - file.
-    - add automatic system upload mod anc compact file
-    - translation add order: autodrive, AutoDeconstruct, cargo-ships
----------------------------------------------------------------------------------------------------
-Version: 0.0.33
-Date: 04/05/2024
+Version: 0.0.4
+Date: 18/01/2024
   Changes:
-    - updated helmod translations.
+    - updated bugs
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 20/12/2023
+  Changes:
+    - updated bugs
+    - updateds audio covert.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 20/12/2023
+  Changes:
+    - updated base loader.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 19/12/2023
+  Changes:
+    - add songs.
